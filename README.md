@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vedantrip
+- 👋 Hi, I’m Vedant Tripathi
 - 👀 I’m interested in Python coding 
 - 🌱 I’m currently learning Coding in other c+/c++ languages 
-- 💞️ I’m looking to collaborate on i don't know , I mean i am underage
-- 📫 How to reach me ... *Gmail:kingovedant@gmail* / insta on *coke_ser.ved.chilled*
+- 💞️ I’m looking to collaborate on i don't know
 
 <!---
 Vedantrip/Vedantrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
