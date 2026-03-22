@@ -2,8 +2,8 @@
 
 # Vedant Tripathi
 
-**B.Tech CSE @ Manipal University Jaipur** · Graduating 2027  
-Backend Engineer · Building towards AI/Agentic Systems  
+**B.Tech CCE @ Manipal University Jaipur** · Graduating 2027  
+Backend Engineer · Building towards AI/Agentic Systems and API  
 📍 Delhi, India · 📬 kingovedant@gmail.com
 
 ---
@@ -11,9 +11,6 @@ Backend Engineer · Building towards AI/Agentic Systems
 ## About me
 
 I'm a 3rd-year Computer Science student with hands-on backend engineering experience.  
-Currently interning at **Chainfly** where I build and optimize REST APIs, server-side logic,  
-and database systems. I'm actively expanding into AI agent infrastructure — learning  
-LangChain, FastAPI-based agent endpoints, and agentic orchestration patterns.
 
 I like building things that actually work at scale — from real-time collaborative systems  
 to distributed systems simulators. Open to internships in **backend engineering**,  
