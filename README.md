@@ -83,32 +83,6 @@ Currently building in the AI infrastructure & agentic systems space.
 </td>
 </tr>
 </table>
-
----
-
-## activity
-
-<div align="center">
-
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedantrip&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantrip&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vedantrip&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=ffffff&sideLabels=8b949e)
-
-</div>
-
----
-
-## Ccurrently learning
-
-```
-LangChain & LangGraph     ████████░░   agent workflows
-RAG + vector databases    ███████░░░   retrieval pipelines
-MCP servers               ██████░░░░   tool registries
-Go + FastAPI              ████░░░░░░   high-perf APIs
-```
-
 ---
 
 ## experience
